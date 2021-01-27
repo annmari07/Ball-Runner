@@ -1038,3 +1038,189 @@ LogInit: Object subsystem initialized
 [2021.01.27-15.35.34:718][  5]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel746021EF4118074DEE0A9484026461CF.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap'
 [2021.01.27-15.35.34:742][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
 [2021.01.27-15.35.34:788][  5]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel_BuiltData11DDA7844172B6CC682CF69714EF6A51.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.01.27-15.44.59:733][134]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.27-15.45.01:870][255]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-15.45.01:875][255]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-15.45.34:997][474]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.023
+[2021.01.27-15.45.34:998][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2021.01.27-15.45.35:020][474]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2021.01.27-15.45.35:020][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2021.01.27-15.45.35:048][474]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/BP_PlayerPawn_Auto15B9DF9594EE01CAC7DD9F59F16D777DE.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto1.uasset'
+[2021.01.27-15.45.35:049][474]LogFileHelpers: Auto-saving content packages took 0.051
+[2021.01.27-15.46.27:429][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.48.19:651][382]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.27-15.50.09:050][856]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.01.27-15.50.09:055][856]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.01.27-15.50.14:132][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.50.19:119][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.50.20:597][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.50.21:297][351]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.27-15.50.21:357][352]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BallRunnerAM
+[2021.01.27-15.50.21:357][352]LogTemp: CWD: D:\Mana\Unreal\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-15.50.21:357][352]LogTemp: Initial Dir: D:\Mana\Unreal\Epic Games\UE_4.20
+[2021.01.27-15.50.21:357][352]LogTemp: Env CWD: D:\Mana\Unreal\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-15.50.21:357][352]LogTemp: BranchPath = DESKTOP-ORGVVAA/D/Mana/Unreal/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-ORGVVAA/D/Mana/Unreal/Epic Games/UE_4.20/Engine/Binaries
+[2021.01.27-15.50.21:357][352]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\annma\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.01.27-15.50.52:065][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.51.03:391][245]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.27-15.51.05:533][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.51.05:582][369]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-15.51.05:600][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-15.51.05:600][369]PIE: New page: PIE session: MainLevel (27 sty 2021, 17:51:05)
+[2021.01.27-15.51.05:600][369]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-15.51.05:605][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004924s)
+[2021.01.27-15.51.05:605][369]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-15.51.05:606][369]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2021.01.27-15.51.05:606][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005590s)
+[2021.01.27-15.51.05:642][369]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-15.51.05:666][369]LogInit: FAudioDevice initialized.
+[2021.01.27-15.51.05:696][369]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-15.51.05:698][369]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-16.51.05
+[2021.01.27-15.51.05:698][369]LogWorld: Bringing up level for play took: 0.001182
+[2021.01.27-15.51.05:711][369]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,533
+[2021.01.27-15.51.16:728][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.51.16:759][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-15.51.16:804][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.51.16:818][999]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.01.27-15.51.25:888][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.51.37:475][142]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.27-15.51.40:858][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.51.40:925][341]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-15.51.40:942][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-15.51.40:943][341]PIE: New page: PIE session: MainLevel (27 sty 2021, 17:51:40)
+[2021.01.27-15.51.40:943][341]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-15.51.40:947][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004578s)
+[2021.01.27-15.51.40:948][341]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-15.51.40:948][341]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2021.01.27-15.51.40:948][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005240s)
+[2021.01.27-15.51.40:984][341]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-15.51.41:007][341]LogInit: FAudioDevice initialized.
+[2021.01.27-15.51.41:033][341]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-15.51.41:035][341]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-16.51.41
+[2021.01.27-15.51.41:035][341]LogWorld: Bringing up level for play took: 0.001035
+[2021.01.27-15.51.41:048][341]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,13
+[2021.01.27-15.51.49:847][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.51.49:878][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-15.51.49:911][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.51.49:956][872]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.01.27-15.51.57:690][336]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.01.27-15.51.59:871][466]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-15.52.03:246][668]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-15.52.03:921][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.52.03:955][710]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-15.52.03:973][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-15.52.03:973][710]PIE: New page: PIE session: MainLevel (27 sty 2021, 17:52:03)
+[2021.01.27-15.52.03:973][710]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-15.52.03:977][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004611s)
+[2021.01.27-15.52.03:977][710]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-15.52.03:977][710]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2021.01.27-15.52.03:978][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005188s)
+[2021.01.27-15.52.04:009][710]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-15.52.04:034][710]LogInit: FAudioDevice initialized.
+[2021.01.27-15.52.04:065][710]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-15.52.04:067][710]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-16.52.04
+[2021.01.27-15.52.04:067][710]LogWorld: Bringing up level for play took: 0.001079
+[2021.01.27-15.52.04:080][710]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,902
+[2021.01.27-15.52.32:100][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerPawn" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Blueprints/BP_PlayerPawn.uasset" SILENT=true
+[2021.01.27-15.52.32:130][330]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/BP_PlayerPawn0B3B8622446060FC3B16F2B80F42C2A6.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Blueprints/BP_PlayerPawn.uasset'
+[2021.01.27-15.52.33:527][414]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.01.27-15.52.33:532][414]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.01.27-15.52.33:608][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.27-15.52.36:288][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.52.36:319][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-15.52.36:357][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.52.36:394][573]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.01.27-15.52.37:312][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.52.37:378][632]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-15.52.37:398][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-15.52.37:398][632]PIE: New page: PIE session: MainLevel (27 sty 2021, 17:52:37)
+[2021.01.27-15.52.37:398][632]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-15.52.37:403][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004883s)
+[2021.01.27-15.52.37:403][632]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-15.52.37:403][632]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2021.01.27-15.52.37:403][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005537s)
+[2021.01.27-15.52.37:432][632]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-15.52.37:457][632]LogInit: FAudioDevice initialized.
+[2021.01.27-15.52.37:483][632]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-15.52.37:485][632]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-16.52.37
+[2021.01.27-15.52.37:485][632]LogWorld: Bringing up level for play took: 0.001021
+[2021.01.27-15.52.37:498][632]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,321
+[2021.01.27-15.53.12:494][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.53.12:530][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-15.53.12:572][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.53.12:608][733]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.01.27-15.53.14:694][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.53.21:202][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.53.23:295][241]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-15.53.23:300][241]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-15.53.26:206][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.53.26:346][385]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2021.01.27-15.53.42:675][346]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.27-15.53.43:269][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerPawn" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Blueprints/BP_PlayerPawn.uasset" SILENT=true
+[2021.01.27-15.53.43:299][372]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/BP_PlayerPawnED30CC8D4EA2D309970C4AAC6A8013C0.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Blueprints/BP_PlayerPawn.uasset'
+[2021.01.27-15.53.44:151][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.53.44:866][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.53.44:899][468]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-15.53.44:915][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-15.53.44:915][468]PIE: New page: PIE session: MainLevel (27 sty 2021, 17:53:44)
+[2021.01.27-15.53.44:915][468]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-15.53.44:919][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004714s)
+[2021.01.27-15.53.44:920][468]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-15.53.44:920][468]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2021.01.27-15.53.44:920][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005290s)
+[2021.01.27-15.53.44:952][468]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-15.53.44:979][468]LogInit: FAudioDevice initialized.
+[2021.01.27-15.53.45:009][468]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-15.53.45:011][468]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-16.53.45
+[2021.01.27-15.53.45:011][468]LogWorld: Bringing up level for play took: 0.001049
+[2021.01.27-15.53.45:024][468]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,154
+[2021.01.27-15.54.04:893][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.54.04:929][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-15.54.04:963][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.54.04:999][662]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.01.27-15.54.06:575][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.54.09:588][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.54.10:321][937]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.27-15.54.10:387][938]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BallRunnerAM
+[2021.01.27-15.54.10:387][938]LogTemp: CWD: D:\Mana\Unreal\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-15.54.10:387][938]LogTemp: Initial Dir: D:\Mana\Unreal\Epic Games\UE_4.20
+[2021.01.27-15.54.10:387][938]LogTemp: Env CWD: D:\Mana\Unreal\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2021.01.27-15.54.10:387][938]LogTemp: BranchPath = DESKTOP-ORGVVAA/D/Mana/Unreal/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-ORGVVAA/D/Mana/Unreal/Epic Games/UE_4.20/Engine/Binaries
+[2021.01.27-15.54.10:405][939]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\annma\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2021.01.27-15.54.24:002][753]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-15.54.24:007][753]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.27-15.54.25:182][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.54.25:215][825]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-15.54.25:231][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-15.54.25:231][825]PIE: New page: PIE session: MainLevel (27 sty 2021, 17:54:25)
+[2021.01.27-15.54.25:231][825]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-15.54.25:236][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004986s)
+[2021.01.27-15.54.25:236][825]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-15.54.25:237][825]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2021.01.27-15.54.25:237][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005614s)
+[2021.01.27-15.54.25:272][825]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-15.54.25:297][825]LogInit: FAudioDevice initialized.
+[2021.01.27-15.54.25:326][825]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-15.54.25:328][825]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-16.54.25
+[2021.01.27-15.54.25:328][825]LogWorld: Bringing up level for play took: 0.001032
+[2021.01.27-15.54.25:341][825]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,163
+[2021.01.27-15.54.47:275][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.54.47:306][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-15.54.47:342][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-15.54.47:376][143]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.01.27-15.54.49:610][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.54.49:661][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.27-15.54.49:731][279]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel0898E9B64193E749E770948DB007999E.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap'
+[2021.01.27-15.54.49:758][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.01.27-15.54.49:810][279]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel_BuiltData373A57884C531EA05B1566B5612324A6.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.01.27-15.54.50:637][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-15.59.19:274][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-15.59.30:602][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-16.35.25:758][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-16.35.50:023][356]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.27-16.35.52:034][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-16.35.52:099][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.27-16.35.52:168][472]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevelE3D5527847C3B015FDCD6389C06B02A8.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap'
+[2021.01.27-16.35.52:195][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.01.27-16.35.52:243][472]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel_BuiltData711731994B3A14D1DBB58C9B4A5B60A2.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.01.27-16.35.52:737][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
