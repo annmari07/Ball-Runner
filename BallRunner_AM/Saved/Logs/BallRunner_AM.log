@@ -2046,3 +2046,615 @@ LogInit: Object subsystem initialized
 [2021.01.27-17.58.48:779][473]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevelE80766D04843EC83B148748A4E3D3F47.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap'
 [2021.01.27-17.58.48:805][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
 [2021.01.27-17.58.48:857][473]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel_BuiltDataA73EB777400325886C03C59537F2D4D0.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.01.27-18.00.24:932][345]LogAssetEditorManager: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2021.01.27-18.00.25:316][345]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.27-18.00.26:054][345]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.01.27-18.00.26:072][345]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.00.26:072][345]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.00.26:072][345]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.00.26:072][345]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.00.26:072][345]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.00.26:072][345]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.00.26:072][345]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.00.26:072][345]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.00.27:661][421]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.00.27:676][422]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.00.27:677][422]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.00.27:709][424]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.00.27:709][424]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.00.27:743][426]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.00.27:759][427]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.00.27:775][428]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.00.27:897][435]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.00.28:093][446]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.00.28:178][451]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.00.28:284][457]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.00.28:368][462]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.00.28:599][475]LogSlate: Window 'NewMaterial*' being destroyed
+[2021.01.27-18.00.28:606][475]LogSlate: Window 'NewMaterial*' being destroyed
+[2021.01.27-18.00.35:756][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EBase" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/EBase.uasset" SILENT=true
+[2021.01.27-18.00.35:788][875]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/EBase1721ECB04F1AAC6818226CB4D67B0F51.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/EBase.uasset'
+[2021.01.27-18.00.56:934][ 70]LogAssetEditorManager: Opening Asset editor for Material /Game/EBase.EBase
+[2021.01.27-18.00.56:936][ 70]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.00.57:023][ 70]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.00.57:037][ 70]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.00.57:054][ 70]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.00.57:054][ 70]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.00.57:054][ 70]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.00.57:054][ 70]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.00.57:054][ 70]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.00.57:054][ 70]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.00.57:054][ 70]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.00.57:054][ 70]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.00.57:793][104]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.00.57:861][108]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.00.57:894][110]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.00.57:909][111]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.00.57:909][111]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.00.58:353][113]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.00.58:353][113]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.00.58:353][113]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.00.58:353][113]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.00.58:353][113]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.00.58:353][113]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.00.58:395][114]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.00.58:495][119]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.00.59:172][158]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.27-18.00.59:172][158]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.27-18.00.59:172][158]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2021.01.27-18.00.59:172][158]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.27-18.01.09:947][550]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.01.09:999][551]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.01.10:000][551]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.01.10:000][551]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.01.10:000][551]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.01.10:000][551]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.01.10:000][551]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.01.10:000][551]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.01.10:000][551]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.01.10:235][565]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.01.10:235][565]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.01.10:285][568]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.01.10:285][568]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.01.10:285][568]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.01.10:333][571]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.01.10:333][571]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.01.10:333][571]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.01.10:454][578]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.01.10:626][588]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.01.10:715][593]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.01.10:858][601]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.01.10:941][606]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.01.11:326][629]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.27-18.01.11:326][629]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.27-18.01.11:326][629]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2021.01.27-18.01.11:326][629]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.27-18.01.26:486][748]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.01.26:503][748]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.01.26:503][748]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.01.26:503][748]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.01.26:503][748]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.01.26:503][748]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.01.26:503][748]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.01.26:503][748]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.01.26:503][748]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.01.26:505][748]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.01.26:842][765]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.01.26:856][766]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.01.26:856][766]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.01.26:886][768]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.01.26:905][769]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.01.26:905][769]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.01.26:905][769]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.01.26:905][769]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.01.27:170][784]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.01.27:190][785]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.01.27:190][785]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.01.27:190][785]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.01.27:230][787]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.01.27:230][787]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.01.27:230][787]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.01.27:230][787]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.01.27:457][798]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.01.27:609][804]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.01.27:677][807]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.01.27:978][813]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.01.27:978][813]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.01.28:673][832]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.27-18.01.28:673][832]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.27-18.01.28:673][832]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2021.01.27-18.01.28:673][832]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.27-18.01.39:119][ 50]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.01.39:133][ 50]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.01.39:153][ 51]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.01.39:153][ 51]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.01.39:153][ 51]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.01.39:153][ 51]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.01.39:153][ 51]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.01.39:153][ 51]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.01.39:153][ 51]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.01.39:153][ 51]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.01.39:440][ 68]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.01.39:455][ 69]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.01.39:455][ 69]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.01.39:455][ 69]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.01.39:502][ 72]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.01.39:502][ 72]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.01.39:502][ 72]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.01.39:502][ 72]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.01.39:672][ 82]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.01.39:859][ 92]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.01.39:914][ 95]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.01.40:065][102]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.01.40:135][106]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.01.41:210][131]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.27-18.01.41:210][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.27-18.01.41:210][131]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2021.01.27-18.01.41:210][131]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.27-18.01.55:277][174]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.01.55:573][175]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.01.55:573][175]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.01.55:573][175]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.01.55:573][175]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.01.55:573][175]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.01.55:573][175]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.01.55:574][175]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.01.55:574][175]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.01.55:574][175]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.01.55:574][175]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.01.55:574][175]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.01.55:593][176]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.01.55:606][177]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.01.55:606][177]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.01.55:607][177]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.01.55:607][177]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.01.55:743][178]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.01.55:893][183]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.01.55:959][185]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.01.56:099][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.01.56:172][196]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.01.56:575][219]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.27-18.01.56:575][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.27-18.01.56:575][219]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2021.01.27-18.01.56:575][219]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.27-18.01.58:825][353]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.01.58:841][353]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.27-18.01.58:874][354]LogShaderCompilers: Display: Shaders left to compile 23
+[2021.01.27-18.01.58:875][354]LogShaderCompilers: Display: Shaders left to compile 22
+[2021.01.27-18.01.58:875][354]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.01.58:875][354]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.01.58:875][354]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.01.58:875][354]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.01.58:875][354]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.01.58:875][354]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.01.59:148][370]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.01.59:165][371]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.01.59:181][372]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.01.59:197][373]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.01.59:197][373]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.01.59:197][373]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.01.59:246][376]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.01.59:246][376]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.01.59:362][383]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.01.59:541][393]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.01.59:625][397]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.01.59:802][406]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.01.59:839][408]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.01.59:858][409]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.01.59:907][412]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.02.00:333][437]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.27-18.02.00:333][437]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.27-18.02.00:333][437]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2021.01.27-18.02.00:333][437]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.27-18.02.12:752][639]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.02.12:767][639]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.27-18.02.12:777][639]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.02.12:777][639]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.02.12:777][639]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.02.12:777][639]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.02.12:777][639]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.02.12:777][639]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.02.12:777][639]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.02.12:777][639]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.02.12:780][639]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.27-18.02.12:822][639]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.02.13:106][650]LogShaderCompilers: Display: Shaders left to compile 23
+[2021.01.27-18.02.13:140][652]LogShaderCompilers: Display: Shaders left to compile 22
+[2021.01.27-18.02.13:175][654]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.02.13:197][655]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.02.13:198][655]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.02.13:248][658]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.02.13:263][659]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.02.13:280][660]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.02.13:572][676]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.02.13:590][677]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.02.13:590][677]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.02.13:622][679]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.02.13:622][679]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.02.13:622][679]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.02.13:671][682]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.02.13:739][686]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.02.13:808][690]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.02.13:894][695]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.02.13:912][696]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.02.14:097][706]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.02.14:220][713]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.02.14:326][719]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.02.14:378][722]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.02.14:863][751]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.27-18.02.14:863][751]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.27-18.02.14:863][751]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2021.01.27-18.02.14:863][751]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.27-18.02.35:681][149]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.02.35:699][149]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.02.35:699][149]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.02.35:699][149]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.02.35:699][149]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.02.35:699][149]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.02.35:699][149]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.02.35:699][149]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.02.35:699][149]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.02.35:724][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.27-18.02.36:425][187]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.02.36:482][190]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.02.36:501][191]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.02.36:501][191]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.02.36:501][191]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.02.36:568][195]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.02.36:568][195]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.02.36:568][195]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.02.36:672][201]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.02.36:887][212]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.02.36:966][216]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.02.37:129][224]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.02.37:204][228]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.02.37:222][229]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.02.37:276][232]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.02.37:652][254]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.27-18.02.37:652][254]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.27-18.02.37:652][254]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2021.01.27-18.02.37:652][254]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.27-18.02.52:957][498]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.02.52:981][499]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.02.52:981][499]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.02.52:981][499]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.02.52:981][499]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.02.52:981][499]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.02.52:981][499]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.02.52:981][499]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.02.52:981][499]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.02.53:308][517]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.02.53:308][517]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.02.53:358][520]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.02.53:358][520]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.02.53:358][520]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.02.53:358][520]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.02.53:358][520]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.02.53:425][524]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.02.53:536][530]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.02.53:757][541]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.02.53:815][544]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.02.54:030][555]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.02.54:069][557]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.02.54:234][566]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.02.54:254][566]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.02.54:254][566]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.02.54:254][566]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.02.54:254][566]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.02.54:262][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.01.27-18.02.54:309][567]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.02.54:349][569]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.02.54:428][573]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.02.54:599][582]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.02.54:617][583]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.02.54:617][583]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.02.54:617][583]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.02.54:669][586]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.02.54:669][586]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.02.54:669][586]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.02.54:721][589]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.02.54:789][593]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.02.54:886][597]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.02.55:049][606]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.02.55:112][609]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.02.55:349][620]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.02.55:399][623]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.02.55:439][625]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.02.55:459][626]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.02.55:650][637]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.02.55:675][637]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.02.55:675][637]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.02.55:675][637]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.02.55:675][637]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.02.55:743][641]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.02.55:780][643]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.02.55:901][649]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.02.55:934][650]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.02.56:036][655]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.27-18.02.56:036][655]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.02.56:070][657]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.27-18.02.56:070][657]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.27-18.02.56:102][659]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.27-18.02.56:119][660]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.27-18.02.56:137][661]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.27-18.02.56:169][663]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.27-18.02.56:292][670]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.27-18.02.56:501][681]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.27-18.02.56:594][686]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.27-18.02.56:776][694]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.02.56:830][696]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.02.58:008][721]MaterialEditorStats: Base pass shader: 100 instructions
+[2021.01.27-18.02.58:008][721]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2021.01.27-18.02.58:008][721]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2021.01.27-18.02.58:008][721]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.27-18.03.15:040][823]LogMaterialEditor: Saving and Compiling material EBase
+[2021.01.27-18.03.15:593][823]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.03.15:639][823]LogShaderCompilers: Display: Shaders left to compile 21
+[2021.01.27-18.03.15:640][823]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.27-18.03.15:640][823]LogShaderCompilers: Display: Shaders left to compile 19
+[2021.01.27-18.03.15:640][823]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.27-18.03.15:640][823]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.27-18.03.15:640][823]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.27-18.03.15:640][823]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.27-18.03.15:640][823]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.27-18.03.15:658][823]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.03.15:676][823]LogMaterial: Display: Missing cached shader map for material EBase, compiling. 
+[2021.01.27-18.03.15:852][823]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy EBase, compiling. 
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 35
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 34
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 34
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 33
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 32
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 31
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 29
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 28
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 27
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 26
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 25
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 24
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 23
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 22
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.27-18.03.16:649][823]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.27-18.03.16:652][823]TextureStreamingBuild: Display: Compiling optional shaders took 0.812 seconds.
+[2021.01.27-18.03.19:043][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EBase" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/EBase.uasset" SILENT=true
+[2021.01.27-18.03.19:077][823]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/EBaseBA745FA74493B25F1E537281F146D485.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/EBase.uasset'
+[2021.01.27-18.03.20:358][896]LogSlate: Window 'EBase' being destroyed
+[2021.01.27-18.03.20:365][896]LogSlate: Window 'EBase' being destroyed
+[2021.01.27-18.03.41:407][280]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/EBase_Inst.EBase_Inst
+[2021.01.27-18.03.42:946][357]LogSlate: Window 'EBase_Inst*' being destroyed
+[2021.01.27-18.03.42:950][357]LogSlate: Window 'EBase_Inst*' being destroyed
+[2021.01.27-18.03.43:014][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy EBase_Inst, compiling. 
+[2021.01.27-18.03.43:767][357]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.03.43:770][357]TextureStreamingBuild: Display: Compiling optional shaders took 0.762 seconds.
+[2021.01.27-18.03.50:604][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ERed" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset" SILENT=true
+[2021.01.27-18.03.50:728][751]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/ERedF2F0C5E84EA12DFB8BF1D99C225C26B6.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset'
+[2021.01.27-18.04.25:835][ 71]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/ERed.ERed
+[2021.01.27-18.04.33:888][503]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.27-18.05.08:311][566]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.27-18.05.12:104][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ERed" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset" SILENT=true
+[2021.01.27-18.05.12:142][791]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ERed, compiling. 
+[2021.01.27-18.05.12:651][791]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.05.12:653][791]TextureStreamingBuild: Display: Compiling optional shaders took 0.517 seconds.
+[2021.01.27-18.05.12:717][791]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/ERed722FABCD4472A6BAFE5972B1829D5DC6.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset'
+[2021.01.27-18.05.13:995][867]LogSlate: Window 'ERed' being destroyed
+[2021.01.27-18.05.14:000][867]LogSlate: Window 'ERed' being destroyed
+[2021.01.27-18.05.23:349][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.05.25:074][527]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2021.01.27-18.05.34:490][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerPawn" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Blueprints/BP_PlayerPawn.uasset" SILENT=true
+[2021.01.27-18.05.34:529][ 31]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/BP_PlayerPawn4AE0F2FE4A6EADD4B90BF98187FDF975.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Blueprints/BP_PlayerPawn.uasset'
+[2021.01.27-18.05.36:349][139]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.01.27-18.05.36:354][139]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.01.27-18.05.37:577][208]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-18.05.37:595][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-18.05.37:595][208]PIE: New page: PIE session: MainLevel (27 sty 2021, 20:05:37)
+[2021.01.27-18.05.37:595][208]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-18.05.37:612][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016726s)
+[2021.01.27-18.05.37:613][208]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-18.05.37:613][208]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2021.01.27-18.05.37:613][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.017916s)
+[2021.01.27-18.05.37:700][208]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-18.05.37:735][208]LogInit: FAudioDevice initialized.
+[2021.01.27-18.05.37:766][208]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-18.05.37:769][208]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-19.05.37
+[2021.01.27-18.05.37:769][208]LogWorld: Bringing up level for play took: 0.001929
+[2021.01.27-18.05.37:783][208]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,605
+[2021.01.27-18.05.47:641][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.05.47:680][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-18.05.47:721][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.05.47:742][799]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.01.27-18.05.57:086][359]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.01.27-18.05.58:883][464]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-18.06.01:231][602]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-18.06.04:277][783]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-18.06.06:810][933]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-18.06.08:555][ 36]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-18.06.10:163][131]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-18.06.11:111][187]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-18.06.12:107][246]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.27-18.06.13:508][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.06.13:573][332]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-18.06.13:594][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-18.06.13:594][332]PIE: New page: PIE session: MainLevel (27 sty 2021, 20:06:13)
+[2021.01.27-18.06.13:594][332]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-18.06.13:606][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012506s)
+[2021.01.27-18.06.13:607][332]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-18.06.13:607][332]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2021.01.27-18.06.13:607][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.013453s)
+[2021.01.27-18.06.13:653][332]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-18.06.13:683][332]LogInit: FAudioDevice initialized.
+[2021.01.27-18.06.13:718][332]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-18.06.13:721][332]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-19.06.13
+[2021.01.27-18.06.13:721][332]LogWorld: Bringing up level for play took: 0.001823
+[2021.01.27-18.06.13:734][332]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,556
+[2021.01.27-18.06.21:644][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.06.21:677][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-18.06.21:728][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.06.21:752][807]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.01.27-18.06.26:758][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.06.27:617][158]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/ERed.ERed
+[2021.01.27-18.06.32:416][424]LogSlate: Window 'ERed*' being destroyed
+[2021.01.27-18.06.32:421][424]LogSlate: Window 'ERed*' being destroyed
+[2021.01.27-18.06.32:474][424]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ERed, compiling. 
+[2021.01.27-18.06.32:973][424]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.06.32:975][424]TextureStreamingBuild: Display: Compiling optional shaders took 0.505 seconds.
+[2021.01.27-18.06.33:451][448]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-18.06.33:468][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-18.06.33:468][448]PIE: New page: PIE session: MainLevel (27 sty 2021, 20:06:33)
+[2021.01.27-18.06.33:469][448]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-18.06.33:483][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014738s)
+[2021.01.27-18.06.33:484][448]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-18.06.33:484][448]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2021.01.27-18.06.33:484][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.015693s)
+[2021.01.27-18.06.33:531][448]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-18.06.33:566][448]LogInit: FAudioDevice initialized.
+[2021.01.27-18.06.33:597][448]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-18.06.33:600][448]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-19.06.33
+[2021.01.27-18.06.33:600][448]LogWorld: Bringing up level for play took: 0.001949
+[2021.01.27-18.06.33:613][448]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,435
+[2021.01.27-18.06.42:588][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.06.42:624][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-18.06.42:676][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.06.42:699][987]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.01.27-18.06.43:699][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.06.43:841][ 55]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/ERed.ERed
+[2021.01.27-18.07.03:431][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.27-18.07.09:216][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ERed" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset" SILENT=true
+[2021.01.27-18.07.09:254][524]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ERed, compiling. 
+[2021.01.27-18.07.10:213][524]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.07.10:216][524]TextureStreamingBuild: Display: Compiling optional shaders took 0.966 seconds.
+[2021.01.27-18.07.10:297][524]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/ERed74D45C8448FE089135B58AA6AE3A5499.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset'
+[2021.01.27-18.07.16:996][925]Cmd: TRANSACTION UNDO
+[2021.01.27-18.07.16:996][925]LogEditorTransaction: Undo Edit Parent
+[2021.01.27-18.07.20:665][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.07.44:615][547]Cmd: TRANSACTION UNDO
+[2021.01.27-18.07.44:615][547]LogEditorTransaction: Undo Edit Preview Mesh
+[2021.01.27-18.07.57:067][175]LogSlate: Window 'Message' being destroyed
+[2021.01.27-18.08.02:464][494]Cmd: TRANSACTION UNDO
+[2021.01.27-18.08.02:465][494]LogEditorTransaction: Undo Edit Parent
+[2021.01.27-18.08.09:203][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ERed" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset" SILENT=true
+[2021.01.27-18.08.09:244][889]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ERed, compiling. 
+[2021.01.27-18.08.09:818][889]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.08.09:820][889]TextureStreamingBuild: Display: Compiling optional shaders took 0.582 seconds.
+[2021.01.27-18.08.09:890][889]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/ERed346098EC4BDEF25027EE3E9660CA9F4D.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset'
+[2021.01.27-18.09.16:366][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/Autosaves/Game/Levels/MainLevel_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.27-18.09.16:477][872]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel_Auto330831BA14ABAB730774A4EB96B50AE72.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/Autosaves/Game/Levels/MainLevel_Auto3.umap'
+[2021.01.27-18.09.16:481][872]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.151
+[2021.01.27-18.09.16:481][872]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.151
+[2021.01.27-18.12.03:653][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ERed" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset" SILENT=true
+[2021.01.27-18.12.03:690][900]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ERed, compiling. 
+[2021.01.27-18.12.04:199][900]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.27-18.12.04:201][900]TextureStreamingBuild: Display: Compiling optional shaders took 0.516 seconds.
+[2021.01.27-18.12.04:258][900]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/ERedAC85AD6C4DBCE07601D21A88042BB726.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/ERed.uasset'
+[2021.01.27-18.12.04:607][921]LogSlate: Window 'ERed' being destroyed
+[2021.01.27-18.12.04:612][921]LogSlate: Window 'ERed' being destroyed
+[2021.01.27-18.12.12:904][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.12.12:976][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.27-18.12.13:111][419]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel467B391E4DCF9576D7BAC2B747F9B2AA.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap'
+[2021.01.27-18.12.13:149][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.01.27-18.12.13:220][419]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel_BuiltData9B7057044FD9992DBFEDD0995122FF5C.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.01.27-18.14.05:224][224]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.27-18.14.23:999][895]LogMetaData: Removing '/Game/Blueprints/BP_Trigger.BP_Trigger:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2021.01.27-18.14.23:999][895]LogMetaData: Removing '/Game/Blueprints/BP_Trigger.SKEL_BP_Trigger_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2021.01.27-18.14.24:000][895]LogMetaData: Removing '/Game/Blueprints/BP_Trigger.BP_Trigger_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2021.01.27-18.14.24:000][895]LogMetaData: Removing '/Game/Blueprints/BP_Trigger.BP_Trigger:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2021.01.27-18.14.24:000][895]LogMetaData: Removing '/Game/Blueprints/BP_Trigger.BP_Trigger:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2021.01.27-18.14.24:000][895]LogMetaData: Removing '/Game/Blueprints/BP_Trigger.BP_Trigger:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2021.01.27-18.14.24:021][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Trigger" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Blueprints/BP_Trigger.uasset" SILENT=true
+[2021.01.27-18.14.24:032][895]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/BP_Trigger6E428CFE44F72AD55E7E0C9DC8283453.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Blueprints/BP_Trigger.uasset'
+[2021.01.27-18.14.41:783][116]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Trigger.BP_Trigger
+[2021.01.27-18.16.11:585][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.16.11:652][200]BlueprintLog: New page: Compile BP_Trigger
+[2021.01.27-18.16.20:840][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.22.48:644][448]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.023
+[2021.01.27-18.22.48:645][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Trigger] ([1] browsable assets)...
+[2021.01.27-18.22.48:645][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Trigger]
+[2021.01.27-18.22.48:645][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Trigger" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/Autosaves/Game/Blueprints/BP_Trigger_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.01.27-18.22.48:668][448]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/BP_Trigger_Auto4C7EEE39F42E8FA7B870166AC7E543280.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/Autosaves/Game/Blueprints/BP_Trigger_Auto4.uasset'
+[2021.01.27-18.22.48:669][448]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.01.27-18.24.24:580][325]BlueprintLog: New page: Compile BP_Trigger
+[2021.01.27-18.24.42:939][570]BlueprintLog: New page: Compile BP_Trigger
+[2021.01.27-18.24.51:111][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.25.26:216][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.25.26:266][131]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-18.25.26:282][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-18.25.26:282][131]PIE: New page: PIE session: MainLevel (27 sty 2021, 20:25:26)
+[2021.01.27-18.25.26:282][131]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-18.25.26:291][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008950s)
+[2021.01.27-18.25.26:291][131]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-18.25.26:292][131]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2021.01.27-18.25.26:292][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.009630s)
+[2021.01.27-18.25.26:331][131]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-18.25.26:354][131]LogInit: FAudioDevice initialized.
+[2021.01.27-18.25.26:386][131]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-18.25.26:388][131]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-19.25.26
+[2021.01.27-18.25.26:389][131]LogWorld: Bringing up level for play took: 0.001375
+[2021.01.27-18.25.26:401][131]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,777
+[2021.01.27-18.25.32:006][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.25.32:040][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-18.25.32:078][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.25.32:114][469]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.01.27-18.25.40:369][964]LogEditorViewport: Clicking Background
+[2021.01.27-18.25.40:974][  0]LogEditorViewport: Clicking on Actor (LMB): BP_Trigger_C (BP_Trigger)
+[2021.01.27-18.25.44:884][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.25.44:934][236]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.27-18.25.44:949][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.27-18.25.44:949][236]PIE: New page: PIE session: MainLevel (27 sty 2021, 20:25:44)
+[2021.01.27-18.25.44:949][236]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-18.25.44:957][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008643s)
+[2021.01.27-18.25.44:958][236]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-18.25.44:958][236]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2021.01.27-18.25.44:958][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.009301s)
+[2021.01.27-18.25.44:989][236]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.27-18.25.45:014][236]LogInit: FAudioDevice initialized.
+[2021.01.27-18.25.45:042][236]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-18.25.45:044][236]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-19.25.45
+[2021.01.27-18.25.45:044][236]LogWorld: Bringing up level for play took: 0.001329
+[2021.01.27-18.25.45:057][236]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel -0,121
+[2021.01.27-18.25.49:759][496]LogNet: Browse: /Game/Levels/MainLevel
+[2021.01.27-18.25.49:761][496]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2021.01.27-18.25.49:829][496]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-18.25.49:837][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008470s)
+[2021.01.27-18.25.49:838][496]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-18.25.49:838][496]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2021.01.27-18.25.49:838][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.009119s)
+[2021.01.27-18.25.49:838][496]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-18.25.49:840][496]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-19.25.49
+[2021.01.27-18.25.49:840][496]LogWorld: Bringing up level for play took: 0.001350
+[2021.01.27-18.25.49:848][496]LogLoad: Took 0.086807 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2021.01.27-18.25.59:418][ 70]LogNet: Browse: /Game/Levels/MainLevel
+[2021.01.27-18.25.59:418][ 70]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2021.01.27-18.25.59:444][ 70]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-18.25.59:453][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009085s)
+[2021.01.27-18.25.59:453][ 70]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-18.25.59:454][ 70]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2021.01.27-18.25.59:454][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.009762s)
+[2021.01.27-18.25.59:454][ 70]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-18.25.59:456][ 70]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-19.25.59
+[2021.01.27-18.25.59:456][ 70]LogWorld: Bringing up level for play took: 0.001396
+[2021.01.27-18.25.59:457][ 70]LogLoad: Took 0.038332 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2021.01.27-18.26.07:528][554]LogNet: Browse: /Game/Levels/MainLevel
+[2021.01.27-18.26.07:529][554]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2021.01.27-18.26.07:553][554]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.01.27-18.26.07:561][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009008s)
+[2021.01.27-18.26.07:562][554]LogAIModule: Creating AISystem for world MainLevel
+[2021.01.27-18.26.07:562][554]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2021.01.27-18.26.07:562][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.009720s)
+[2021.01.27-18.26.07:562][554]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.27-18.26.07:564][554]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.01.27-19.26.07
+[2021.01.27-18.26.07:565][554]LogWorld: Bringing up level for play took: 0.001541
+[2021.01.27-18.26.07:566][554]LogLoad: Took 0.037802 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2021.01.27-18.26.09:029][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.26.09:065][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.27-18.26.09:098][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.27-18.26.09:135][644]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.01.27-18.26.09:852][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.27-18.26.09:938][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.27-18.26.10:052][691]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel160113834FE1251659F0CDA191AE3AEC.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap'
+[2021.01.27-18.26.10:079][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.01.27-18.26.10:133][691]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel_BuiltDataFF7A19394A55769F179EFB8130BB933B.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.01.27-18.28.01:682][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.27-18.28.01:781][ 90]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel3B36F4FC43EA77040EBB32841343EAB4.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel.umap'
+[2021.01.27-18.28.01:807][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.01.27-18.28.01:851][ 90]LogSavePackage: Moving 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Saved/MainLevel_BuiltDataF01C24BE46EE61EFD12B989D2969017E.tmp' to 'C:/Users/annma/Desktop/Ball-Runner/BallRunner_AM/Content/Levels/MainLevel_BuiltData.uasset'
